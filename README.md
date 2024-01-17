@@ -1,2 +1,3 @@
 # Computational Neuroscience Journal Club
-journal club papers 
+
+## Papers want to read
