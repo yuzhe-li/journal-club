@@ -1,2 +1,2 @@
-# yuzhe-jc.github.io
+# Computational Neuroscience Journal Club
 journal club papers 
