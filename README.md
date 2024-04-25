@@ -3,7 +3,7 @@
 ## Papers want to read
 
 ### Connectivity 
-[Bielczyk, Natalia Z., et al. "Causal Inference in functional magnetic resonance imaging." arXiv preprint arXiv:1708.04020 (2017).](
+[Bielczyk, Natalia Z., et al. "Disentangling causal webs in the brain using functional magnetic resonance imaging: A review of current approaches." Network Neuroscience 3.2 (2019): 237-273.](
 https://www.researchgate.net/profile/Natalia-Bielczyk/publication/330855286_Disentangling_causal_webs_in_the_brain_using_functional_Magnetic_Resonance_Imaging_A_review_of_current_approaches/links/599298de458515a8a24bd580/Disentangling-causal-webs-in-the-brain-using-functional-Magnetic-Resonance-Imaging-A-review-of-current-approaches.pdf)
 
 
@@ -26,7 +26,7 @@ https://www.researchgate.net/profile/Natalia-Bielczyk/publication/330855286_Dise
 
 ### Reinforcement learning
 
-[Tarbouriech, Jean, Tor Lattimore, and Brendan O'Donoghue. "Probabilistic Inference in Reinforcement Learning Done Right." arXiv preprint arXiv:2311.13294 (2023).](https://arxiv.org/pdf/2311.13294.pdf)
+[Tarbouriech, J., Lattimore, T., & O'Donoghue, B. (2024). Probabilistic Inference in Reinforcement Learning Done Right. Advances in Neural Information Processing Systems, 36.](https://neurips.cc/virtual/2023/poster/72569)(https://arxiv.org/pdf/2311.13294.pdf)
 
 ### Neural Network related
 [Zhang, Z., Cheng, H., & Yang, T. (2020). A recurrent neural network framework for flexible and adaptive decision making based on sequence learning. PLOS Computational Biology, 16(11), e1008342.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008342)
