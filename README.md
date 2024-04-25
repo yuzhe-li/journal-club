@@ -1,7 +1,6 @@
 # Computational Neuroscience Journal Club
 
 ## Papers want to read
-### Neural network 
 
 ### Connectivity 
 [Bielczyk, Natalia Z., et al. "Causal Inference in functional magnetic resonance imaging." arXiv preprint arXiv:1708.04020 (2017).](
@@ -28,4 +27,14 @@ https://www.researchgate.net/profile/Natalia-Bielczyk/publication/330855286_Dise
 ### Reinforcement learning
 
 [Tarbouriech, Jean, Tor Lattimore, and Brendan O'Donoghue. "Probabilistic Inference in Reinforcement Learning Done Right." arXiv preprint arXiv:2311.13294 (2023).](https://arxiv.org/pdf/2311.13294.pdf)
+
+### Neural Network related
+[A recurrent neural network framework for flexible and adaptive decision making based on sequence learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008342)
+
+[The Laplacian spectrum of neural networks](https://www.frontiersin.org/articles/10.3389/fncom.2013.00189/full)
+### Dimensionality reduction (Embedding)
+[Learnable latent embeddings for joint behavioural and neural analysis](https://www.nature.com/articles/s41586-023-06031-6)
+### Decoding
+[Population dynamics of head-direction neurons during drift and reorientation](https://www.nature.com/articles/s41586-023-05813-2#publish-with-us)
+
 ## Papers alread read 
